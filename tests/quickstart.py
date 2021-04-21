@@ -7,7 +7,7 @@ SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
 SERVICE_ACCOUNT_FILE = 'keys.json'
 
 # The ID and range of a sample spreadsheet.
-SAMPLE_SPREADSHEET_ID = '1PZg6P4DlQuKvxopMPf72Wq46lckRVZ1cUtmrXrR5l4s'
+SAMPLE_SPREADSHEET_ID = ''
 
 
 def main():
